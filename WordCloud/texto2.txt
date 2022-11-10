@@ -1,0 +1,121 @@
+O que você sabe sobre a chamada ciência de dados?
+
+Informar-se sobre o tema é uma ótima maneira de compreender melhor a complexidade do mundo no qual vivemos hoje.
+
+Não existe a menor possibilidade de comparar a quantidade de informações a que temos acesso atualmente com o que a humanidade tinha disponível décadas atrás.
+
+É o que chamamos de Era da Informação. O problema é que estamos falando de tanta informação que excede a capacidade de processamento dos seres humanos.
+
+Para coletar e organizar todos esses dados, só com a ajuda da tecnologia.
+
+Só que as máquinas não fazem isso tudo sozinhas. São as pessoas que definem diretrizes, estabelecem critérios e podem manusear as soluções tecnológicas.
+
+E, claro, saber transformar toda essa informação em conteúdo útil, em ação e em resultado.
+
+Dentro desse cenário, o cientista de dados é figura fundamental. Neste texto, vamos apresentar para você um bom panorama da sua área de atuação.
+
+O Que É A Ciência De Dados Ou Data Science?
+A ciência de dados é o uso de diversas tecnologias, modelos e metodologias para capturar, armazenar e processar informações, gerando valor a um negócio.
+
+Essa é a definição de Alessandra Montini, professora de Métodos Quantitativos e Informática na Faculdade de Economia, Administração e Contabilidade (FEA) da USP e coordenadora do Laboratório de Análise de Dados (Labdata) da Fundação Instituto de Administração (FIA).
+
+Segundo ela, estamos falando de uma ciência completa:
+
+Um cientista de dados precisa saber capturar, armazenar e processar com várias tecnologias. Não pode saber uma ou duas. Tem que saber o máximo possível
+
+Para a professora, o profissional que domina uma ou duas tecnologias para capturar e processar dados é um especialista, e não um cientista.
+
+Ela argumenta que, na ciência de dados, também há preocupação com o armazenamento de dados e com a segurança na cloud e no data lake da empresa.
+
+A forma como as informações são guardadas sugere a modelagem do sistema.
+
+Depois da captura e do armazenamento, entra a fase de preparação dos dados, na qual a validade e veracidade das informações são verificadas.
+
+É importante observar que o cientista de dados não vai fazer essa verificação em cada informação contida na base de dados.
+
+Em vez disso, ele se concentra em atestar se as fontes são confiáveis e deixa para os algoritmos o trabalho de validar as informações e dar a elas o destino adequado.
+
+Isso que torna possível processar uma quantidade tão grande de dados em tão pouco tempo.
+
+Para Que Serve A Ciência De Dados?
+Hoje em dia, os dados estão tão presentes na rotina de uma empresa que nenhuma área fica alheia a eles.
+
+Práticas da ciência de dados são aplicadas nos setores de produção, além de vendas, marketing, comunicação, financeiro, jurídico e qualquer área que você possa imaginar.
+
+Seja qual for o contexto, há sempre um objetivo proposto. De modo que a ciência de dados nunca pode perder o alinhamento com a estratégia da empresa.
+
+“São geradas muitas soluções e definida a melhor delas com base em métricas definidas inicialmente“, explica Alessandra Montini.
+
+Assim, chega-se à chamada solução ótima, aquela que apresenta o melhor desempenho em determinado contexto.
+
+A ciência de dados é um meio de encontrá-la e colocá-la em produção.
+
+Qual A Importância Da Ciência De Dados?
+Com tantos dados relevantes à disposição, um gestor tem muito mais subsídios para tomar suas decisões.
+
+Ele encontra insumos confiáveis e precisos com grande agilidade, diferente de quando os profissionais precisavam usar sobretudo da intuição ou, então, encomendar pesquisas demoradas, onerosas e nem tão precisas assim.
+
+Para Alessandra Montini, o mundo está se tornando cada vez mais “data driven”, ou seja, orientado por dados, de modo que não é mais possível tomar a decisão correta sem analisar esse volume gigantesco de informação disponível.
+
+Afinal, se você não o fizer, pode ter certeza de que a concorrência está fazendo e, por isso, terá uma importante vantagem em relação a você. Estará sempre um passo à frente.
+
+Por Que A Ciência De Dados É Tão Fundamental Para As Empresas?
+O desenvolvimento tecnológico anda a galope. As mudanças são mais rápidas que nunca, o que exige um modelo novo para cada caso.
+
+A professora da FIA observa que, por isso, as empresas não estão mais aceitando pagar milhões por soluções prontas.
+
+Em vez disso, precisam desenvolver internamente a expertise da ciência de dados, que permite chegar à melhor solução a partir de um conhecimento íntimo do negócio.
+
+É por isso que, como falamos antes, o trabalho do cientista de dados não está dissociado do pensamento estratégico de gestão.
+
+Dessa forma, ao contrário do que muitos pensam, os algoritmos não vão desumanizar a gestão das empresas.
+
+Na realidade, eles permitem que os profissionais ocupem o seu tempo com tarefas ainda mais humanas, que as máquinas não são capazes de executar.
+
+Principais Aplicações Da Ciência De Dados
+Achar que a ciência de dados se ocupa apenas de números é um grande desconhecimento.
+
+Texto, imagem, sons e movimentos também são considerados dados.
+
+É só uma questão de aplicar a tecnologia certa para capturar, armazenar e processar cada tipo de informação.
+
+A seguir, confira alguns exemplos de aplicações práticas da ciência de dados.
+
+Texto: algoritmos podem ler em qualquer idioma e apresentar um resumo traduzido do conteúdo. Útil na área médica, no direito, marketing, jornalismo, segurança pública e outras áreas
+Imagem: a análise automatizada de imagens acelera a detecção de doenças e reduz o tempo no hospital, auxilia na busca de pessoas perdidas e criminosos, facilita a análise do padrão de consumo dos clientes e marcação de ponto nas empresas, etc.
+Som: a captura e análise de informações sonoras pode ser usada por robôs de atendimento, no diagnóstico de doenças e para descobrir a opinião dos clientes
+Previsões: a ciência de dados permite prever vendas, faturamento, acessos ao site, reclamações, visitas a um ponto de venda, comportamento do usuário, etc.
+Segmentação: criando grupos de clientes, fornecedores, alunos, colaboradores, usuários, etc., de acordo com determinados critérios de similaridade, é possível obter insights preciosos e criar ações segmentadas
+Classificação: o público pode ser classificado de várias maneiras, com base em dados passados. Por exemplo: portadores ou não de uma doença, compradores ou não de um produto ou serviço, terão sinistro ou não, deixarão a empresa ou não, processarão a empresa ou não, gostarão ou não da nova função e por aí vai
+Cesto de compras: com base nos hábitos de um cliente, é possível sugerir um cesto de compras. Por exemplo: se o cliente comprar carvão e carne, então, comprará cerveja também
+Social Network Analysis (SNA): ajuda a mapear líderes e seguidores em uma rede de relacionamentos
+Business Intelligence (BI): por meio de gráficos, é possível mapear os dados importantes da empresa. O país, estado, cidade, vendedor ou ponto de venda que mais gera receitas para cada produto, por exemplo
+Geolocalização: por meio de mapas, é possível identificar os padrões geográficos de vendas, reclamações, sinistralidade, doenças, etc.
+Qual A Relação De Ciência De Dados Com A Estatística?
+O sistema solar seria a ciência de dados e um planeta seria a estatística.
+
+Estatística é um conjunto de métodos e teorias usadas para analisar e modelar dados. A estatística não se preocupa em capturar e armazenar informação, por exemplo.
+
+A ciência de dados utiliza a estatística, mas muito mais do que isso. Ela também envolve a captura e armazenamento de informações, e utiliza algoritmos avançados de inteligência artificial, machine learning, deep learning, etc.
+
+Conceitos Importantes Relacionados Ao Data Science
+A seguir, falamos sobre alguns conceitos importantes para melhorar sua compreensão sobre o universo da ciência de dados.
+
+O Que É Big Data?
+Big data tem tudo a ver com a ciência de dados, mas não é nem uma área do conhecimento e nem uma profissão.
+
+Big Data é um conjunto de metodologias utilizadas para a captura, armazenamento e processamento de informação, ou seja, o trabalho do cientista de dados está aí.
+
+No Big Data, são processados dados estruturados e não estruturados em um sistema escalável, isto é, em que o número de máquinas aumenta conforme a necessidade.
+
+O Que É A Análise De Dados?
+Podemos dizer que a análise de dados é a parte final de um trabalho de ciência de dados.
+
+Os dados, por si só, não dizem nada, mesmo que estejam armazenados, classificados e segmentados de várias maneiras.
+
+O que dá valor a eles é a capacidade de relacioná-los com a realidade que se tem interesse em analisar, identificando problemas e oportunidades para uma empresa, por exemplo.
+
+O analista de dados precisa conhecer estatística aplicada e, pelo menos, o básico de machine learning.
+
+
+
