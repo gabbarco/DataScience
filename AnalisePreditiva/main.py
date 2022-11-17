@@ -4,7 +4,7 @@ from scipy.spatial import distance
 from sklearn.neighbors import KNeighborsClassifier
 
 # ler o arquivo 
-pesquisa = pd.read_csv("C:/Users/46456334810/Documents/CiênciaDeDados/AnalisePreditiva/parkinsons.data", sep=",", decimal=".")
+pesquisa = pd.read_csv("", sep=",", decimal=".")  #Leitura do arquivo
 print(pesquisa)
 df = pesquisa.drop(['name'], axis=1)
 
