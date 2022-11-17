@@ -4,7 +4,7 @@ from scipy.spatial import distance
 from sklearn.neighbors import KNeighborsClassifier
 
 # ler o arquivo 
-pesquisa = pd.read_csv("C:/Users/46456334810/Documents/CiênciaDeDados/Metodologiadeconstrução/bank.csv", sep=";")
+pesquisa = pd.read_csv("", sep=";")  #Leitura do arquivo
 
 df = pesquisa.drop(['age','balance','day','month','duration','campaign','pdays','previous'], axis=1)
 
