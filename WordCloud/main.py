@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 
 #----------------------------#
 
-my_corpus = nltk.corpus.PlaintextCorpusReader('C:/Users/Ronaldo/Documents/CienciaDeDados/aula4', r'.*\.txt')
+my_corpus = nltk.corpus.PlaintextCorpusReader('', r'.*\.txt')  #Leitura do arquivo
  
 #----------------------------#
 
