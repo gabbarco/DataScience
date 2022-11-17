@@ -2,7 +2,7 @@
 import pandas as pd
 from sklearn.cluster import KMeans
 
-df = pd.read_csv("C:/Users/46456334810/DataScience-1/AgrupamentoPartição/mamografia.csv", sep=";", decimal=".")
+df = pd.read_csv("", sep=";", decimal=".") #Leitura do arquivo
 
 #Implementação do algoritmo Kmeans
 
